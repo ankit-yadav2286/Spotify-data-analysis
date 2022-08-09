@@ -1,2 +1,2 @@
 # Spotify-data-analysis
-performed data analysis on spotify dataset
+performed data analysis on spotify dataset using python numpy , pandas.
